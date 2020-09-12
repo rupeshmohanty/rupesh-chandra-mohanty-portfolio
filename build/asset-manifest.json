@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ed849e7.chunk.css",
+    "main.js": "/static/js/main.acc556db.chunk.js",
+    "main.js.map": "/static/js/main.acc556db.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1f0ab69.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1f0ab69.js.map",
+    "static/js/2.dfa47526.chunk.js": "/static/js/2.dfa47526.chunk.js",
+    "static/js/2.dfa47526.chunk.js.map": "/static/js/2.dfa47526.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dac6252721d90b62ba68938276311ee9.js": "/precache-manifest.dac6252721d90b62ba68938276311ee9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8ed849e7.chunk.css.map": "/static/css/main.8ed849e7.chunk.css.map",
+    "static/js/2.dfa47526.chunk.js.LICENSE.txt": "/static/js/2.dfa47526.chunk.js.LICENSE.txt",
+    "static/media/Rupesh ChandraMohanty.pdf": "/static/media/Rupesh ChandraMohanty.5ba7dedf.pdf",
+    "static/media/contact.svg": "/static/media/contact.64fb8a6c.svg",
+    "static/media/me.jpeg": "/static/media/me.12918464.jpeg",
+    "static/media/project1.png": "/static/media/project1.d0e6cd27.png",
+    "static/media/project2.png": "/static/media/project2.40a4bfc8.png",
+    "static/media/project3.png": "/static/media/project3.4ab68b0c.png",
+    "static/media/navbar.css": "/static/media/resume_bg.644cc113.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1f0ab69.js",
+    "static/js/2.dfa47526.chunk.js",
+    "static/css/main.8ed849e7.chunk.css",
+    "static/js/main.acc556db.chunk.js"
+  ]
+}

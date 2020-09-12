@@ -1,0 +1,28 @@
+@media only screen and (max-width : 450px) {
+    img {
+        width: 300px;
+        margin-left: 15px;
+        margin-bottom: 10px;
+    }
+  }
+  @media only screen and (max-width : 375px) {
+    .col-md-6 img{
+        margin-left: -2%;
+    }
+}
+
+@media only screen and (max-width : 810px) {
+    img{
+        width: 300px;
+        margin-top: 50px;
+    }
+}
+
+.btn-outline-success {
+    color: rgb(190, 204, 109);
+    border-color: rgb(190, 204, 109);
+}
+
+.btn-outline-success:hover{
+    background-color: rgb(190, 204, 109);
+}

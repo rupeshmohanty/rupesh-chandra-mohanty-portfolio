@@ -1,0 +1,71 @@
+.bg-img {
+    /* The image used */
+    background-image: url(../assets/images/resume_bg.jpeg);
+  
+    min-height: 655px;
+    opacity: 0.9 !important;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    /* Needed to position the navbar */
+    position: relative;
+  }
+  
+  /* Position the navbar container inside the image */
+  .container {
+    position: absolute;
+    margin: 20px;
+    width: auto;
+  }
+  
+  
+  /* Navbar links */
+  .topnav a {
+    /* float: left; */
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .cover-intro{
+      margin-left: 30% !important;
+      margin-top: 15% !important;
+  }
+
+  strong{
+      color: #ffffff;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      font-weight: 800;
+  }
+
+  h1{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 300;
+}
+
+@media only screen and (max-width: 810px) {
+  .cover-intro{
+    margin-left: 15% !important;
+    margin-top: 30% !important;
+  }
+  .bg-img{
+    min-height: 615px;
+  }
+}
+
+@media only screen and (max-width : 450px) {
+  .cover-intro {
+    margin-left: 10% !important;
+    margin-top: 50% !important;
+  }
+}
