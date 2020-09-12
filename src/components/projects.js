@@ -12,7 +12,7 @@ function Projects(){
                     
                     <div className = "col-md-4">
                         <div className = "card" style = {{ background : "#222222" }}>
-                            <img src = { project1 } alt = "NodeJs project"/>
+                            <img src = { project1 } className="card-img-top" alt = "NodeJs project"/>
                             <div className = "card-body">
                                 <h4>Blog API using NodeJS,MongoDB and Express</h4>
                                 <a className = "btn btn-outline-light" href = "https://github.com/rupeshmohanty/Blog-api-using-nodejs">See Code</a>
@@ -21,7 +21,7 @@ function Projects(){
                     </div>
                     <div className = "col-md-4">
                     <div className = "card" style = {{ background : "#222222" }}>
-                            <img src = { project2 } alt = "Spectrum Club" height = "350"/>
+                            <img src = { project2 } className="card-img-top"  alt = "Spectrum Club"/>
                             <div className = "card-body">
                                 <h4>Technical Club Website</h4>
                                 <a className = "btn btn-outline-light" href = "https://github.com/rupeshmohanty/Spectrum">See Code</a>
@@ -30,7 +30,7 @@ function Projects(){
                     </div>
                     <div className = "col-md-4">
                     <div className = "card" style = {{ background : "#222222" }}>
-                            <img src = { project3 } alt = "Student Attendance System" height="350"/>
+                            <img src = { project3 } className="card-img-top"  alt = "Student Attendance System"/>
                             <div className = "card-body">
                                 <h4>Student Attendance System</h4>
                                 <a className = "btn btn-outline-light" href = "https://github.com/rupeshmohanty/student-attendance-system">See Code</a>
