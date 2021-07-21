@@ -1,7 +1,7 @@
 import React from 'react';
 import me from './assets/images/me.jpeg';
 import './assets/about.css';
-import resume from './assets/images/Rupesh ChandraMohanty.pdf';
+import resume from './assets/RupeshResume.pdf';
 
 function About() {
 
@@ -22,7 +22,7 @@ function About() {
                     </p>
 
                     <div>
-                        <a className = "btn btn-outline-success" href = { resume }>Download CV</a>&nbsp;
+                        <a className = "btn btn-outline-success" href = { resume } target = "_blank">Download CV</a>&nbsp;
                         <a className = "btn btn-outline-light" href = "#contact">Hire me</a>
                     </div>
                     

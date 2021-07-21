@@ -6,6 +6,7 @@ import About from './components/about.js';
 import Services from './components/services.js';
 import Contact from './components/contact.js';
 import Footer from './components/footer.js';
+import Blogs from './components/blogs.js';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Resume/><br/><br/>
         <About/><br/><br/>
         <Services/><br/><br/>
+        <Blogs/><br></br>
         <Contact/><br/><br/><br/>
         <Footer/><br/>
 

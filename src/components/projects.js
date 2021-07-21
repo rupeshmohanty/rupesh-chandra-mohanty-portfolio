@@ -12,28 +12,28 @@ function Projects(){
                     
                     <div className = "col-md-4">
                         <div className = "card" style = {{ background : "#222222" }}>
-                            <img src = { project1 } className="card-img-top" alt = "NodeJs project"/>
+                            <img src = { project1 } className="card-img-top" alt = "Quickfix"/>
                             <div className = "card-body">
-                                <h4>Blog API using NodeJS,MongoDB and Express</h4>
-                                <a className = "btn btn-outline-light" href = "https://github.com/rupeshmohanty/Blog-api-using-nodejs">See Code</a>
+                                <h4>Quickfix</h4>
+                                <a className = "btn btn-outline-light" href = "https://github.com/rupeshmohanty/Quickfix">See Code</a>
                             </div>
                         </div>
                     </div>
                     <div className = "col-md-4">
                     <div className = "card" style = {{ background : "#222222" }}>
-                            <img src = { project2 } className="card-img-top"  alt = "Spectrum Club"/>
+                            <img src = { project2 } className="card-img-top"  alt = "Chat API"/>
                             <div className = "card-body">
-                                <h4>Technical Club Website</h4>
-                                <a className = "btn btn-outline-light" href = "https://github.com/rupeshmohanty/Spectrum">See Code</a>
+                                <h4>Chat API</h4>
+                                <a className = "btn btn-outline-light" href = "https://github.com/rupeshmohanty/chat-api">See Code</a>
                             </div>
                         </div>
                     </div>
                     <div className = "col-md-4">
                     <div className = "card" style = {{ background : "#222222" }}>
-                            <img src = { project3 } className="card-img-top"  alt = "Student Attendance System"/>
+                            <img src = { project3 } className="card-img-top"  alt = "Farmster Agro"/>
                             <div className = "card-body">
-                                <h4>Student Attendance System</h4>
-                                <a className = "btn btn-outline-light" href = "https://github.com/rupeshmohanty/student-attendance-system">See Code</a>
+                                <h4>Farmster Agro</h4>
+                                <a className = "btn btn-outline-light" href = "https://farmsteragro.com/">Check Website</a>
                             </div>
                         </div>
                     </div>
